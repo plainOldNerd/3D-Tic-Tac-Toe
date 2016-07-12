@@ -5,3 +5,5 @@ In my subject Software Architecture Design and Implementation the second assignm
 I was also interested in applets at the time.
 
 The game is not my best work with regards to how it stores the data but it does handle all network errors. When a player loads a new applet window it will handle the situation of being mid-game, etc.
+
+I have used this in Eclipse IDE so far. To start you game you must first start the server, and then load the applet windows.
